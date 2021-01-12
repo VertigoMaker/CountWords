@@ -1,0 +1,13 @@
+C:\Users\StepanS\Desktop\С# visual\CountWords\CountWords\bin\Debug\netcoreapp3.1\CountWords.exe
+C:\Users\StepanS\Desktop\С# visual\CountWords\CountWords\bin\Debug\netcoreapp3.1\CountWords.deps.json
+C:\Users\StepanS\Desktop\С# visual\CountWords\CountWords\bin\Debug\netcoreapp3.1\CountWords.runtimeconfig.json
+C:\Users\StepanS\Desktop\С# visual\CountWords\CountWords\bin\Debug\netcoreapp3.1\CountWords.runtimeconfig.dev.json
+C:\Users\StepanS\Desktop\С# visual\CountWords\CountWords\bin\Debug\netcoreapp3.1\CountWords.dll
+C:\Users\StepanS\Desktop\С# visual\CountWords\CountWords\bin\Debug\netcoreapp3.1\CountWords.pdb
+C:\Users\StepanS\Desktop\С# visual\CountWords\CountWords\obj\Debug\netcoreapp3.1\CountWords.csprojAssemblyReference.cache
+C:\Users\StepanS\Desktop\С# visual\CountWords\CountWords\obj\Debug\netcoreapp3.1\CountWords.AssemblyInfoInputs.cache
+C:\Users\StepanS\Desktop\С# visual\CountWords\CountWords\obj\Debug\netcoreapp3.1\CountWords.AssemblyInfo.cs
+C:\Users\StepanS\Desktop\С# visual\CountWords\CountWords\obj\Debug\netcoreapp3.1\CountWords.csproj.CoreCompileInputs.cache
+C:\Users\StepanS\Desktop\С# visual\CountWords\CountWords\obj\Debug\netcoreapp3.1\CountWords.dll
+C:\Users\StepanS\Desktop\С# visual\CountWords\CountWords\obj\Debug\netcoreapp3.1\CountWords.pdb
+C:\Users\StepanS\Desktop\С# visual\CountWords\CountWords\obj\Debug\netcoreapp3.1\CountWords.genruntimeconfig.cache
